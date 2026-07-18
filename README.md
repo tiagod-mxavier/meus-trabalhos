@@ -107,8 +107,14 @@ Este projeto pode ser utilizado em:
 ## Autores
 
 **Tiago de Moura Xavier**
+
+
 **Lucas de Amaral Correa**
+
+
 **João Pedro Pereira e Pereira**
+
+
 
 Graduandos em Engenharia Mecânica  
 Universidade Federal do Amazonas (UFAM)
